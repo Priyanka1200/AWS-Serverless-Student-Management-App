@@ -165,9 +165,9 @@ All images are stored in the **Screen_shots/** folder.
 
 ### DynamoDB Table
 
-![DynamoDB](Screen_shots/DynamoDB_1.png)
-
 ![DynamoDB Table](Screen_shots/DynamoDB_Table.png)
+
+![DynamoDB](Screen_shots/DynamoDB_1.png)
 
 ---
 

@@ -139,45 +139,43 @@ This project helped me understand:
 ## Screenshots
 
 Below are the screenshots captured during the implementation of this project.  
-All screenshots are available inside the **Screen_shots/** folder.
+All images are stored in the **Screen_shots/** folder.
+
+---
 
 ### Website Hosting (S3 Static Website)
-- **Website_hosting.png**  
-  Screenshot showing S3 static website hosting enabled.
+
+![S3 Website Hosting](Screen_shots/S3_Bucket_website_endpoint.png)
+
+---
 
 ### Application Output
-- **Main_Output1.png**  
-  Serverless website output (home / main page).
 
-- **Main_output2.png**  
-  Serverless website output (student data view).
+![Serverless Website Output](Screen_shots/Outpu1.png)
 
-### AWS S3
-- **S3Bucket.png**  
-  S3 bucket configuration and uploaded frontend files.
+![Serverless Website Output](Screen_shots/Output2.png)
+
+---
 
 ### API Gateway
-- **API_Gateway.png**  
-  REST API configuration with GET and POST methods.
 
-### DynamoDB
-- **DynamoDB_Table.png**  
-  `studentData` DynamoDB table showing stored records.
+![API Gateway Configuration](Screen_shots/API_Gateway.png)
 
-### AWS Lambda
-- **Lambda_Function1.png**  
-  Lambda function for fetching student data (GET).
+---
 
-- **Lambda_Function2.png**  
-  Lambda function for inserting student data (POST).
+### DynamoDB Table
 
-### Amazon CloudWatch
-- **Cloud_Watch1.png**  
-  CloudWatch logs for Lambda execution.
+![DynamoDB](Screen_shots/DynamoDB_1.png)
 
-- **Cloud_Watch2.png**  
-  CloudWatch monitoring and log details.
+![DynamoDB Table](Screen_shots/DynamoDB_Table.png)
 
+---
+
+### AWS Lambda Functions
+
+![Lambda Function - GET Student Data](Screen_shots/Lambda_Function.png)
+
+---
 
 ## Note
 

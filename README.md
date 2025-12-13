@@ -151,7 +151,7 @@ All images are stored in the **Screen_shots/** folder.
 
 ### Application Output
 
-![Serverless Website Output](Screen_shots/Outpu_1.png)
+![Serverless Website Output](Screen_shots/Output_1.png)
 
 ![Serverless Website Output](Screen_shots/Output_2.png)
 

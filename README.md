@@ -43,16 +43,16 @@ This application follows a complete serverless flow:
 ## Project Structure
 
 .
-├── index.html                  # Home page
-├── add_student.html            # Add student form
-├── fetch_all_students.html     # View all students
-├── scripts.js                  # Frontend API calls
+├── index.html
+├── add_student.html
+├── fetch_all_students.html
+├── scripts.js
 ├── Python/
-│   ├── getStudents.py          # Lambda GET function
-│   ├── insertStudentData.py    # Lambda POST function
-│   ├── BucketPolicy.txt        # S3 bucket policy
-│   └── s3-CORS Policy.txt      # S3 CORS configuration
-└── Screen_shots/               # AWS console screenshots
+│   ├── getStudents.py
+│   ├── insertStudentData.py
+│   ├── BucketPolicy.txt
+│   └── s3-CORS Policy.txt
+└── Screen_shots/
 ---
 
 ## AWS Configuration Details
